@@ -7,9 +7,8 @@ I made this script to save my playlist title and YouTube links in a text file. T
 
 I gave a brief example text file and output so you can see what it will look like! Each line will be in this format. Keep in mind no modification of the YouTube title is done so a messy title will be messy in the file too.
 
-Example Output
-`TITLE OF SONG 1,URL TO YOUTUBE 1`
-<br />
+Example Output<br />
+`TITLE OF SONG 1,URL TO YOUTUBE 1`<br />
 `TITLE OF SONG 2,URL TO YOUTUBE 2`
 
 # Prerequisites
