@@ -44,6 +44,7 @@ There is a easy way to do this in the browser. There is a faster way and a slowe
 * Right-Click the line (It will start with `<div id="contents"`).
 *  Select Copy > Copy outerHTML.
 <br />
+
 4.  Paste this output into a text file and save it to the directory you want to use for this file.
 5. Put the file into the program for the `file_path` variable. Include the entire file path (see example above the variable in the code if you need it).
 6. Go back to the **Running The Script** section.
